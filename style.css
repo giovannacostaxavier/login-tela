@@ -31,21 +31,21 @@ input#enviar{
     border-radius: 5px;
     margin-top: 10px;
     cursor: pointer;
-    font-weight: 700;
+    font-weight: 600;
 }
 div a {
     margin: auto;
     display: block;
     font-size: 1em;
-    width: 90%;
-    height: 30px;
+    width: 89%;
+    height: 28px;
     background-color:white;
     margin-top: 12px;
-    padding-top: 12px;
+    padding-top: 10px;
     border-radius: 5px;
     text-decoration: none;
     color: #2c012e;
-    font-weight:700 ;
+    font-weight:600 ;
 }
 section h1{
     color: white;

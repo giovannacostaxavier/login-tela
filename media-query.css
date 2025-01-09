@@ -4,9 +4,21 @@
   main{
     width: 40vw;
   }
+  input#enviar{
+    width: 70%;
+  }
+  div a {
+    width: 70%;
+  }
 }
 @media screen and (min-width: 992px){
     main{
-        width: 50vw;
+        width: 40vw;
       }
-}
+      input#enviar{
+        width: 70%;
+      }
+      div a {
+        width: 70%;
+      }
+    }
