@@ -26,7 +26,7 @@ input#enviar{
     font-size: 1em;
     width: 90%;
     height: 40px;
-    background-color: #2c012e;
+    background-color: #430146;
     color: white;
     border-radius: 5px;
     margin-top: 10px;
@@ -44,7 +44,7 @@ div a {
     padding-top: 10px;
     border-radius: 5px;
     text-decoration: none;
-    color: #2c012e;
+    color: #430146;
     font-weight:600 ;
 }
 section h1{
@@ -60,17 +60,17 @@ div input{
     font-size: 1em;
     width: 72%;
     height: 30px;
-    border: 3px solid #2c012e;
+    border: 3px solid #430146;
     border-radius: 3px;
     transform: translateY(-2px)
     
 }
 input#enviar:hover{
     background-color: white;
-    color: #2c012e;
+    color: #430146;
 }
 div a:hover{
-    background-color: #2c012e;
+    background-color: #430146;
     color: white;
 }
 div span{
@@ -86,7 +86,7 @@ div span#chave{
 div label{ display: none;}
 
 form > div.campo{
-    background-color: #2c012e;
+    background-color: #430146;
    margin: 15px;
    border-radius: 5px;
 }
