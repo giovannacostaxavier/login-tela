@@ -8,8 +8,15 @@ html, body{
     background: black url(img/fundo-tela-login-1500.jpg) no-repeat;
     background-size:cover;
     height: 100vh;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+    
+
+
+  
+
 main{
     background-color: #33A6F7;
     text-align: center;
@@ -18,9 +25,8 @@ main{
     padding-top: 60px;
     border-radius: 10px;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    
+   
 }
 input#enviar{
     font-size: 1em;
